@@ -22,3 +22,5 @@ This project is made so all the elements are displayed correctly on popular scre
 #### Deployment
 
 This page is deployed to github pages
+
+[Deployment link] (https://bennyypret.github.io/se_project_spots/)
